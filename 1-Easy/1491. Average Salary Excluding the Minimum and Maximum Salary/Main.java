@@ -1,5 +1,6 @@
 public double average(int[] salary) {
         double sum = 0;
+        
         int n = salary.length;
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
